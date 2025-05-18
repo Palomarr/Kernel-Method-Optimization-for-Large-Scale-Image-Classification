@@ -37,8 +37,7 @@ Kernel-Method-Optimization-for-Large-Scale-Image-Classification/
 │   ├── run_experiments.py    # Script to run experiments
 │   ├── run_evaluations.py    # Script for comprehensive evaluation
 │   └── compare_with_cnn.py   # Script to compare with CNN baseline
-│
-└── results/                  # Directory for storing results (created at runtime)
+
 ```
 
 ## Running the Code
