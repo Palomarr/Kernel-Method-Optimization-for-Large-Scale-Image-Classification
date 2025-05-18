@@ -8,7 +8,6 @@ This document outlines the organization of the codebase for the Kernel Method Op
 Kernel-Method-Optimization-for-Large-Scale-Image-Classification/
 ├── run.py                    # Main runner script for the project
 ├── requirements.txt          # Project dependencies
-├── EVALUATION.md             # Instructions for running evaluations
 ├── README.md                 # Project overview
 ├── STRUCTURE.md              # This file
 │
